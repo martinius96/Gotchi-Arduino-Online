@@ -13,6 +13,6 @@
 
 # Instructions
 * Each player must be registered to webpage of game
-* Webpage will generate its source code for microcontroller that user will upload to board
+* Webpage will generate its source code for microcontroller, schematics that user will upload to board and wire pushbuttons, display properly
 * Program for microcontroller will download stats, etc, game....
 * After user make something (action), it will be sent to webserver, when it will be saved, also players will be ranked based on their activity, actions, experiences, etc.
